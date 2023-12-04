@@ -1,4 +1,4 @@
-
+1.코드
 
 #include <stdio.h>
 
