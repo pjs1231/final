@@ -41,3 +41,12 @@ int main(int argc, char *argv[]) {
     return 0;
 
 }
+
+2.컴파일 방법
+    컴파일 명령 실
+cd C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\
+cl copyfile.c
+    프로그램 실행
+copyfile source.txt target.txt
+
+    자가체점:100점
